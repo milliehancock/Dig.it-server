@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'adserver'
+require 'digit_database'
 
 set :environment, :production
 
